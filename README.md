@@ -2,9 +2,6 @@
 <p align='center'>
 </p>
 
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?width=500&font=IBM+Plex+Sans&color=1DC3F7&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;I'm+a+frontend+and+backend+web+and+game+developer" /></a>
-</p>
 
 - 👋 Hi, I’m BotigerBOT
 - 💼 I'm the youngest entrepreneur in Germany.
